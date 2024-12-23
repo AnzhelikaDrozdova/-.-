@@ -19,7 +19,7 @@ rm(list=ls())
 # Проверка рабочей директории
 getwd()
 # Рабочая директория
-setwd ("D:/AR/lika/Zad2")
+setwd("C:/ModInf/Drozdova/kr")
 
 #считаем данные в переменные
 greendb= read.csv("greendb.csv"); greendb

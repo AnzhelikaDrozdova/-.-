@@ -6,7 +6,7 @@ rm(list=ls())
 # Проверка рабочей директории
 getwd()
 # Рабочая директория
-setwd ("D:/AR/lika/Zad1")
+setwd("C:/ModInf/Drozdova/kr")
 
 # Считаем данные в переменную adat и просмотрим их
 greendb=read.csv("greendb.csv", sep=",",dec="."); greendb
